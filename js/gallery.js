@@ -6,7 +6,7 @@
 ================================================================= */
 const photos = [
   {
-    src: "photos/photo1.png",
+    src: "photos/photo1.jpg",
     caption: "Thank you for being a part of my life... every day with you feels like a gift."
   },
   {
