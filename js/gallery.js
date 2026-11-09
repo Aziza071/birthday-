@@ -6,11 +6,11 @@
 ================================================================= */
 const photos = [
   {
-    src: "photo1.jpg",
+    src: "photos/photo1.jpg",
     caption: "Thank you for being a part of my life... every day with you feels like a gift."
   },
   {
-    src: "photo2.jpg",
+    src: "photos/photo2.jpg",
     caption: "I hope that on this special day, you are surrounded by happiness and love."
   },
   {
